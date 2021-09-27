@@ -7,7 +7,7 @@ Following are some of the pointers to be followed while forking a repo to the co
 ## Research Paper/ Recreation of Paper
 - [ ] Within the first 2-3 line the original paper is referenced.
 - [ ] Requirements to recreate the results achieved by the exec (in form of requirements.txt)
-- [ ] The comparison the implemention and the original paper should be compared side-by-side.
+- [ ] The comparison between the implemention and the original paper should be compared side-by-side. (Screenshots of your model inferences)
 - [ ] Evaluation Metric that the research paper is being calculated upon.
 - [ ] The architecture of the model.
 - [ ] Contributors
