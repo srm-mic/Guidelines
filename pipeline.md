@@ -1,5 +1,9 @@
 # Repo Pipeline
 Following are some of the pointers to be followed while forking a repo to the community github.
+## Overall
+- [ ] Contribution Guidelines
+- [ ] Tags added to the repository
+- [ ] About Section added to the repository
 ## Research Paper/ Recreation of Paper
 - [ ] Within the first 2-3 line the original paper is referenced.
 - [ ] Requirements to recreate the results achieved by the exec (in form of requirements.txt)
